@@ -13,7 +13,8 @@ title:  数分钟学会 Adobe Premiere Pro
 =======
 >**关于下载Adobe Premiere Pro，你可以选择到[官网](https://www.adobe.com/cn/)进行下载，虽然官网上下载会比较安全但是试用期只有30天，那么我们可以通过破解的方法让你可以无止境的使用adobe软件。**
 
-1.Adobe Premiere Pro \
+1.Adobe Premiere Pro 
+
 2.破解软件 amtemu [私藏百度网盘](https://pan.baidu.com/s/1MQidjUTeFc687BtPJcjXfQ)  密码：eocp
 
 **安装步骤**
@@ -23,7 +24,7 @@ title:  数分钟学会 Adobe Premiere Pro
 
 ![avatar](images/2.png)
 
-2.进行各种加载运行后会跳到登陆页面 ` （建议在安装的过程把网络断开便可以避免登陆的步骤） ` 
+2.进行各种加载运行后会跳到登陆页面 `（建议在安装的过程把网络断开便可以避免登陆的步骤）` 
 
 3.安装完软件打开一次之后把软件关闭，打开下载好的破解软件amtemu,点选软件版本，然后点击Advanced.
 
@@ -48,7 +49,7 @@ title:  数分钟学会 Adobe Premiere Pro
 
 ![avatar](images/8.png)
 
-4.使用剃刀工具把不需要的部分裁剪
+4.使用剃刀工具把不需要的部分裁剪。
 
 ![avatar](images/9.png)
 
@@ -66,5 +67,5 @@ title:  数分钟学会 Adobe Premiere Pro
 
 8.一条影片便大功告成了！
 
-<center> **最后希望本篇可以帮到对操作Pr有兴趣的读者们~**
+<center> **最后希望本篇可以帮到对操作Pr有兴趣的读者们~**\
 <center>**谢谢阅览**
