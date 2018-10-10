@@ -71,7 +71,7 @@
 
 ## 游戏截频
 <div align="center">
-<img src="images/第一篇博客/gif.gif" "  >
+<img src="images/第一篇博客/2.gif"   >
 </div>
 
 <center>
