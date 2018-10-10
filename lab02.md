@@ -1,8 +1,10 @@
 # __利用Construct 2制作HTML射击小游戏__
 ## <font color="#00038B" >安装Construct 2</font>
+-------
 进入[官网](https://www.scirra.com/construct2/releases/r262)点击download下载软件并进行安装
 
 ## <font color="#00038B" >新建文件</font>
+-------
 1.点击左上角的File>New>New empty project
 <div align="center">
 <img src="images/第一篇博客/1.png" height="250px"  >
@@ -10,6 +12,7 @@
 </div>
 
 ## <font color="#00038B" >游戏素材</font>
+-------
 * 先右键另存以下所需图片素材
 <div align="center">
 <img src="images/第一篇博客/player.png"   >
@@ -19,6 +22,7 @@
 </div>
 
 ## <font color="#00038B" >制作步骤（导入素材）</font>
+-------
 1.先建立游戏背景，首先在左侧`Properties`处下滑找到`Layout Size`，然后把界面尺寸设置1280,1024。
 <div align="center">
 <img src="images/第一篇博客/3.png" height="250px" >
@@ -43,6 +47,7 @@
 </div>
 
 ## <font color="#00038B" >制作步骤（事件插入）</font>
+-------
 1.双击players，打开视窗后点击左下角的瞄准标志，然后会跳出一个`Image point`的视窗，新建一个点然后在player素材的中间点一下。（这个操作的目的是定义了bullet发出位置以及调整目标角度）
 
 <div align="center">
@@ -69,7 +74,8 @@
 
 6.简单的游戏制作完成~[试玩通道](http://localhost:50000/)
 
-## 游戏截频
+## <font color="#00038B" >游戏截频</font>
+-------
 <div align="center">
 <img src="images/第一篇博客/2.gif"   >
 </div>
@@ -78,4 +84,3 @@
 
  谢谢阅读 <br>
 <font size="1">by yodaboy
-</center>
