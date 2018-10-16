@@ -1,5 +1,5 @@
-# <font color="#FF0000 " >色</font><font color="#FF7F00 " >彩</font><font color="#FFFF00  " >表</font><font color="##00FF00" >示</font><font color="#00FFFF " >与</font><font color="#0000FF " >编</font><font color="#8B00FF " >码
-</font>
+# <font color="#FF0000 " >色</font><font color="#FF7F00 " >彩</font><font color="#FFFF00  " >表</font><font color="##00FF00" >示</font><font color="#00FFFF " >与</font><font color="#0000FF " >编</font><font color="#8B00FF " >码</font>
+
 
 顏色或色彩是通過眼、腦和我們的生活經驗所產生的一種對光的視覺效應。人對顏色的感覺不僅僅由光的物理性質所決定，還包含心理等許多因素，比如人類對顏色的感覺往往受到周圍顏色的影響。有時人們也將物質產生不同顏色的物理特性直接稱為顏色。
 
@@ -29,7 +29,8 @@
 |  浮点 |    (1.0, 0.0, 0.0)|     
 | 百分比  |  100%, 0%, 0%)   |   
 | 八位数字  | (255, 0, 0) 或#FF0000 (十六進位)     |  
-| 十六位数字  | 	(65535, 0, 0)     |   
+| 十六位数字  | 	(65535, 0, 0)     |
+   
 ## **2.电脑显示模式**
 24bit模式
 每像素24位元（bits per pixel，bpp）編碼的RGB值：使用三個8位元無符號整數（0到255）表示紅色、綠色和藍色的強度。這是當前主流的標準表示方法，用於真彩色和JPEG或者TIFF等圖檔格式里的通用顏色交換。它可以產生一千六百萬種顏色組合，對人類的眼睛來說，其中有許多顏色已經是無法確切的分辨。
