@@ -10,7 +10,7 @@
 ## 洗衣机案例
 >而具有“自顶向下，逐步求精”的最典型例子就是洗衣机的运作过程，那么现在就来看看洗衣机是如何运作的吧。
 
-s![](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2423467763,2493290348&fm=11&gp=0.jpg)
+![](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2423467763,2493290348&fm=11&gp=0.jpg)
 
 首先我们要思考洗衣机运作步骤：
 1. 输入洗衣参数（洗衣模式）：水位要求与洗衣时间
@@ -31,3 +31,4 @@ s![](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2423467763,249329
     进入脱水模式； 
     while(脱水时间=指定时间) 
     retrun;
+
